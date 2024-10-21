@@ -9,7 +9,7 @@ public class OOP4 {
         Human human = new Human("Andry");
         Transport car = new Car();
         Transport bike = new Bike();
-        Transport horse = new Horse("Alice");
+        Transport horse = new Horse("Jean");
         Transport coolcar = new ATvehicle();
 
         System.out.println(human);

@@ -4,36 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bfc4899-0b0a-491f-b804-3bd570ee301b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Ivan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP1/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP1/OOP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP1/Room/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP1/Room/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/OOP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP3/OOP3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP3/Objects/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP3/Objects/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Moving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/OOP4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Transports/ATvehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Transports/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Transports/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Transports/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Transports/Transport.java" afterDir="false" />
+    <list default="true" id="9bfc4899-0b0a-491f-b804-3bd570ee301b" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP1/Room/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/Animals/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/OOP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP2/OOP2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/OOP4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/OOP4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Transports/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/Ivan/OOP4/Transports/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IvGromov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IvGromov/OOP-HomwWork.git&quot;,
+    &quot;accountId&quot;: &quot;462f16e5-6fa6-4bb9-abb4-d2779efebfd8&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -82,6 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727518002800</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1728823500896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728823500896</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
